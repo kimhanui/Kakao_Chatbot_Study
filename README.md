@@ -1,7 +1,7 @@
 <h1 align="center">챗봇 제작 스터디</h1>
 
 
-## 챗봇제작을 해봅시다~
+## 챗봇제작 가즈아ㅏㅏㅏㅏ
 
 ![ScreenShot](images/logo.jpg) 
 
