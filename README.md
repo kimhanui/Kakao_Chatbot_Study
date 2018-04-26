@@ -1,7 +1,7 @@
 <h1 align="center">챗봇 제작 스터디</h1>
 
 
-## [인터페이스 동아리 홈페이지](http://riyenas0925.github.io)
+## 챗봇제작을 해봅시다~
 
 ![ScreenShot](images/logo.jpg) 
 
@@ -27,7 +27,7 @@
 
 AWS Cloud9은 브라우저만으로 코드를 작성, 실행 및 디버깅할 수 있게 해주는 클라우드 기반 통합 개발 환경(IDE)이며, 코드 편집기, 디버거 및 터미널이 포함되어 있습니다. Cloud9은 JavaScript, Python, PHP를 비롯하여 널리 사용되는 프로그래밍 언어를 위한 필수 도구가 사전에 패키징되어 제공되므로, 새로운 프로젝트를 시작하기 위해 파일을 설치하거나 개발 머신을 구성할 필요가 없습니다.
 
-[![ScreenShot](images/cloud9.PNG)](design/images/cloud9.PNG)
+[![ScreenShot](images/cloud9.PNG)](images/cloud9.PNG)
 
 Download link is [here](https://aws.amazon.com/ko/cloud9/).
 
